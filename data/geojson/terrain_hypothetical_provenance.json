@@ -1,0 +1,11 @@
+{
+ "provenance": "synthetic",
+ "label": "HYPOTHETICAL - NOT SURVEYED ELEVATION OR BATHYMETRY",
+ "note": "No DEM or bathymetry available; surface is a mathematical visualisation scaffold.",
+ "bbox": [
+  120.43473089999999,
+  14.594269420000002,
+  121.0763362,
+  16.14403929
+ ]
+}

@@ -1,0 +1,28 @@
+Check_ID,Description,Passed,Detail
+IN-01,observations_quarterly.csv present & non-empty,True,29696 rows
+IN-02,forecasts CSV has all mandatory columns,True,"27 columns, missing=[]"
+TR-01,every forecast has Observation_Count > 0,True,0 rows with no training observations
+TR-02,no NaN forecast values,True,0 NaN values
+TR-03,every forecast has a Training_Period,True,0 missing
+TR-04,every backtest row matches an observed series,True,0 unmatched
+TR-05,forecast dates are after the series' last observation,True,0 not strictly future
+TR-06,forecast horizons are 1..4,True,"[np.int64(1), np.int64(2), np.int64(3), np.int64(4)]"
+CO-01,mapping-eligible forecasts have non-null coordinates,True,0 null
+CO-02,mapped coordinates match the verified registry exactly,True,0 mismatches
+CO-03,coordinate provenance recorded (status + confidence),True,2 confidence levels
+GE-01,river geometry labelled APPROXIMATE,True,approximate station-to-station lines only
+GE-02,3-D terrain labelled HYPOTHETICAL (no DEM/bathymetry used),True,synthetic surface; no bathymetry claim
+GE-03,no bathymetry/water-depth artifacts,True,none generated
+MD-01,each series has exactly one selected model,True,"753 series, 1506 selected rows (== series + backtest duplicate)"
+MD-02,"models used are within {Naive, SeasonalNaive, ARIMA, LSTM}",True,"['ARIMA', 'LSTM', 'Naive', 'SeasonalNaive']"
+MD-03,every forecast references a selected model,True,"['ARIMA', 'LSTM', 'Naive', 'SeasonalNaive']"
+IV-01,intervals only where a documented method exists,True,"ARIMA CI=996, empirical=2016, none=0"
+IV-02,lower <= upper for all intervals,True,0 bad
+AR-01,line graphs produced,True,103 PNGs
+AR-02,2-D GIS maps produced,True,14 PNGs
+AR-03,3-D terrain views produced,True,13 PNGs
+AR-04,KML exists,True,/home/user/2CENTRAL-LUZON-DATA/Google_Earth_Pro/kml/clz_rivers_stations_forecasts.kml
+AR-05,KMZ exists & is a valid zip,True,/home/user/2CENTRAL-LUZON-DATA/Google_Earth_Pro/kml/clz_rivers_stations_forecasts.kmz
+AR-06,GeoJSON layers exported,True,3 files
+DQ-01,data-quality report produced,True,18 checks
+DQ-02,no negative observed values,True,0 negative
