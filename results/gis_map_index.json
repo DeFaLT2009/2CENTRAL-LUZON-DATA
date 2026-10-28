@@ -1,0 +1,20 @@
+{
+ "disclaimer": "APPROXIMATE river geometry (station-to-station) - NOT surveyed hydrography",
+ "maps": [
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_chemical_DO.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_chemical_BOD.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_chemical_NH3.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_chemical_NO3-N.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_chemical_PO4-P.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_chemical_Cl.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_physical_TSS.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_physical_Temp.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_physical_pH.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_physical_Color.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_microbial_Fecal_Coliform.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_microbial_Total_Coliform.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_combined_all_parameters.png",
+  "/home/user/2CENTRAL-LUZON-DATA/figures/2d/2d_combined_chemical.png"
+ ],
+ "geometry_provenance": "approximate"
+}

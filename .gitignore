@@ -1,0 +1,32 @@
+# Generated pipeline artifacts (regenerable via code/*.py)
+# Keep the repository lean; large intermediate datasets and figures are outputs,
+# not source. Re-run the pipeline to reproduce them.
+
+# Intermediate / large tabular outputs
+data/processed/observations_long.csv
+data/processed/observations_monthly.csv
+data/processed/observations_quarterly.csv
+data/processed/series_inventory.csv
+data/forecasts/*.csv
+data/geojson/*.geojson
+data/geojson/*.npz
+
+# Figures / maps / 3-D renders
+figures/**/*.png
+
+# Google Earth artifacts
+Google_Earth_Pro/**/*.kml
+Google_Earth_Pro/**/*.kmz
+Google_Earth_Pro/screenshots/*.png
+
+# Model artifacts
+models/checkpoints/*
+models/model_configurations/*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local download archives (regenerable build artifact)
+*.zip

@@ -1,0 +1,10 @@
+{
+ "generated": "2026-10-28T12:20:04",
+ "total_checks": 27,
+ "passed": 27,
+ "failed": 0,
+ "all_passed": true,
+ "forecast_rows": 3012,
+ "series_forecast": 753,
+ "mapping_eligible": 1680
+}
