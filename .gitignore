@@ -27,3 +27,6 @@ models/model_configurations/*.json
 __pycache__/
 *.pyc
 .venv/
+
+# Local download archives (regenerable build artifact)
+*.zip
