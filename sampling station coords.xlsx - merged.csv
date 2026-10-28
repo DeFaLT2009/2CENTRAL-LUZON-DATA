@@ -1,0 +1,103 @@
+Waterbody_,WB_Type,Station_ID,NAME,STN_ID,LONG,LAT,DO_inMGL,TEMP_inMGL,PH_inMGL,TSS_inMGL,COLOR_inMG,FC_inMPN,NITRATE_in,PHOSPHATE_,Metals_AS,Metals_Ba,Metals_Cd,Metals_Cr6,Metals_Cu,Metals_Fe,Metals_Mn,Metals_Pb,Metals_Se,Metals_Hg,Metals_Zn,FC_Jan2026,FC_Feb2026,FC_Mar2026,FC_Apr2026,FC_May2026,FC_Jun2026,WB_Name,layer,path
+Bagsit River,River,Upstream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+Bagsit River,River,Midstream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+Bagsit River,River,Downstream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+Pudoc River,River,Near Basketball Court,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+Pudoc River,River,Duongan Bridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+Pudoc River,River,Buhangin Bridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+Pudoc River,River,Pudoc Bridge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Additional Monitored Rivers,E:/gis files from rhiam/Data for Hiram/Additional Monitored Rivers.shp
+,,,Angat River,Expressway Bridge,120.7721083,14.90119722,,,,,,,,,,,,,,,,,,,,,,,,,,,Angat River,E:/gis files from rhiam/Data for Hiram/Angat River.shp
+,,,Angat River,Plaridel-Pulilan Bridge,120.7637194,14.87846389,,,,,,,,,,,,,,,,,,,,,,,,,,,Angat River,E:/gis files from rhiam/Data for Hiram/Angat River.shp
+,,,Angat River,Baliuag-Bustos Bridge,120.767175,14.86792222,,,,,,,,,,,,,,,,,,,,,,,,,,,Angat River,E:/gis files from rhiam/Data for Hiram/Angat River.shp
+,,,ASFMSRS WQMA,Sasmuan River 2,120.6069444,15.15805556,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,Sasmuan River 1,120.5593889,15.15716667,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,Minalin River 1,120.7061,14.97575,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,Sto Tomas River,120.71876,15.00475,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,San Fernando River,120.69466,15.03299,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,Mexico River,120.72993,15.06783,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,Angeles River 2,120.60742,15.15921,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,ASFMSRS WQMA,Angeles River 1,120.59202,15.15521,,,,,,,,,,,,,,,,,,,,,,,,,,,ASFMSRS,E:/gis files from rhiam/Data for Hiram/ASFMSRS.shp
+,,,Atlag River,Bridge near Villa Santiago Compound,120.8223,14.8281,,,,,,,,,,,,,,,,,,,,,,,,,,,Atlag River,E:/gis files from rhiam/Data for Hiram/Atlag River.shp
+,,,Atlag River,Libo Bridge,120.831,14.8325,,,,,,,,,,,,,,,,,,,,,,,,,,,Atlag River,E:/gis files from rhiam/Data for Hiram/Atlag River.shp
+,,,Atlag River,Atlag Bridge,120.8339,14.8359,,,,,,,,,,,,,,,,,,,,,,,,,,,Atlag River,E:/gis files from rhiam/Data for Hiram/Atlag River.shp
+,,,Bocaue River,Expressway Bridge,120.767175,14.86792222,,,,,,,,,,,,,,,,,,,,,,,,,,,Bocaue River,E:/gis files from rhiam/Data for Hiram/Bocaue River.shp
+,,,Bocaue River,McArthur Bridge,120.7637194,14.87846389,,,,,,,,,,,,,,,,,,,,,,,,,,,Bocaue River,E:/gis files from rhiam/Data for Hiram/Bocaue River.shp
+,,,Bocaue River,Bridge Near Public Market,120.7721083,14.90119722,,,,,,,,,,,,,,,,,,,,,,,,,,,Bocaue River,E:/gis files from rhiam/Data for Hiram/Bocaue River.shp
+,,,Dampol Creek,Upstream,120.80721,14.90469,,,,,,,,,,,,,,,,,,,,,,,,,,,Dampol Creek,E:/gis files from rhiam/Data for Hiram/Dampol Creek.shp
+,,,Dampol Creek,Downstream,120.80595,14.90476,,,,,,,,,,,,,,,,,,,,,,,,,,,Dampol Creek,E:/gis files from rhiam/Data for Hiram/Dampol Creek.shp
+,,,Dela Paz Creek,Upstream,120.6279317,15.08607833,,,,,,,,,,,,,,,,,,,,,,,,,,,Dela Paz Creek,E:/gis files from rhiam/Data for Hiram/Dela Paz Creek.shp
+,,,Dela Paz Creek,Downstream,120.6273817,15.086975,,,,,,,,,,,,,,,,,,,,,,,,,,,Dela Paz Creek,E:/gis files from rhiam/Data for Hiram/Dela Paz Creek.shp
+,,,Guagua River,Plaza Burgos (Near GNC),120.6345,14.9656,,,,,,,,,,,,,,,,,,,,,,,,,,,Guagua River,E:/gis files from rhiam/Data for Hiram/Guagua River.shp
+,,,Guagua River,Foot Bridge (Near Brgy. Hall of San Pedro),120.6256,14.9652,,,,,,,,,,,,,,,,,,,,,,,,,,,Guagua River,E:/gis files from rhiam/Data for Hiram/Guagua River.shp
+,,,Guagua River,San Pablo Bridge (Near Brgy. Hall),120.6214,14.9689,,,,,,,,,,,,,,,,,,,,,,,,,,,Guagua River,E:/gis files from rhiam/Data for Hiram/Guagua River.shp
+,,,Hagonoy River,Kalsadang Putol Bridge,120.72995,14.88336,,,,,,,,,,,,,,,,,,,,,,,,,,,Hagonoy River,E:/gis files from rhiam/Data for Hiram/Hagonoy River.shp
+,,,Hagonoy River,San Juan Bridge,120.74102,14.886592,,,,,,,,,,,,,,,,,,,,,,,,,,,Hagonoy River,E:/gis files from rhiam/Data for Hiram/Hagonoy River.shp
+,,,Hagonoy River,San Miguel Bridge,120.7327,14.85735,,,,,,,,,,,,,,,,,,,,,,,,,,,Hagonoy River,E:/gis files from rhiam/Data for Hiram/Hagonoy River.shp
+,,,Hagonoy River,Bridge near San Agustin Public Market,120.73913,14.83981,,,,,,,,,,,,,,,,,,,,,,,,,,,Hagonoy River,E:/gis files from rhiam/Data for Hiram/Hagonoy River.shp
+,,,Labangan River,Iba Bridge,120.7721083,14.90119722,,,,,,,,,,,,,,,,,,,,,,,,,,,Labangan River,E:/gis files from rhiam/Data for Hiram/Labangan River.shp
+,,,Labangan River,Iba Hanging Bridge,120.7637194,14.87846389,,,,,,,,,,,,,,,,,,,,,,,,,,,Labangan River,E:/gis files from rhiam/Data for Hiram/Labangan River.shp
+,,,Labangan River,Labangan Bridge,120.767175,14.86792222,,,,,,,,,,,,,,,,,,,,,,,,,,,Labangan River,E:/gis files from rhiam/Data for Hiram/Labangan River.shp
+,,,Looban 1 Creek 1,Upstream,121.0087,14.79948,,,,,,,,,,,,,,,,,,,,,,,,,,,Looban 1 Creek 1,E:/gis files from rhiam/Data for Hiram/Looban 1 Creek 1.shp
+,,,Looban 1 Creek 1,Downstream,121.00843,14.79942,,,,,,,,,,,,,,,,,,,,,,,,,,,Looban 1 Creek 1,E:/gis files from rhiam/Data for Hiram/Looban 1 Creek 1.shp
+,,,Looban 1 Creek 2,Upstream,121.00795,14.79866,,,,,,,,,,,,,,,,,,,,,,,,,,,Looban 1 Creek 2,E:/gis files from rhiam/Data for Hiram/Looban 1 Creek 2.shp
+,,,Looban 1 Creek 2,Downstream,121.00658,14.79716,,,,,,,,,,,,,,,,,,,,,,,,,,,Looban 1 Creek 2,E:/gis files from rhiam/Data for Hiram/Looban 1 Creek 2.shp
+,,,Lucong River,Cutcut Capas Bridge,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,Lucong River,E:/gis files from rhiam/Data for Hiram/Lucong River.shp
+,,,Lucong River,Santiago Bridge,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,Lucong River,E:/gis files from rhiam/Data for Hiram/Lucong River.shp
+,,,Lucong River,Near Green Village,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,Lucong River,E:/gis files from rhiam/Data for Hiram/Lucong River.shp
+,,,Maimpis Creek,Upstream,120.6279317,15.05875833,,,,,,,,,,,,,,,,,,,,,,,,,,,Maimpis Creek,E:/gis files from rhiam/Data for Hiram/Maimpis Creek.shp
+,,,Maimpis Creek,Downstream,120.665965,15.05744333,,,,,,,,,,,,,,,,,,,,,,,,,,,Maimpis Creek,E:/gis files from rhiam/Data for Hiram/Maimpis Creek.shp
+,,,Marilao River,Station 1 Marilao-Caloocan Bridge,121.025169,14.77625,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,Marilao River,E:/gis files from rhiam/Data for Hiram/Marilao River.shp
+,,,Marilao River,Station 2 Prenza Dam,120.9978667,14.78133056,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,Marilao River,E:/gis files from rhiam/Data for Hiram/Marilao River.shp
+,,,Marilao River,Station 3 Expressway Bridge,120.95875,14.77113889,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,Marilao River,E:/gis files from rhiam/Data for Hiram/Marilao River.shp
+,,,Marilao River,Station 4 McArthur Bridge,120.9511389,14.76066667,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,Marilao River,E:/gis files from rhiam/Data for Hiram/Marilao River.shp
+,,,Marilao River,Station 5 Ibayo Bridge,121.025169,14.77625,,,,,,,,,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,Marilao River,E:/gis files from rhiam/Data for Hiram/Marilao River.shp
+,,,Meycauayan River,Station 1 Perez Bridge,120.9899722,14.75827778,,,,,,,,,,,,,,,,,,,,5400000,1300000,24000000,5400000,16000000,240000000,,Meycauayan River,E:/gis files from rhiam/Data for Hiram/Meycauayan River.shp
+,,,Meycauayan River,Station 2 Expressway Bridge,120.9760833,14.73922222,,,,,,,,,,,,,,,,,,,,16000000,3500000,24000000,11000000,5400000,25000000,,Meycauayan River,E:/gis files from rhiam/Data for Hiram/Meycauayan River.shp
+,,,Meycauayan River,Station 3 Viente Reales Bridge,120.9693056,14.71313889,,,,,,,,,,,,,,,,,,,,1400000,700000,16000000,9200000,3500000,240000000,,Meycauayan River,E:/gis files from rhiam/Data for Hiram/Meycauayan River.shp
+,,,Meycauayan River,Station 4 McArthur Bridge,120.9614167,14.73066667,,,,,,,,,,,,,,,,,,,,2200000,1100000,2400000,1700000,16000000,1300000,,Meycauayan River,E:/gis files from rhiam/Data for Hiram/Meycauayan River.shp
+,,,Meycauayan River,Station 5 Meymart Bridge,120.9574444,14.73727778,,,,,,,,,,,,,,,,,,,,9200000,1100000,2200000,490000,5400000,790000,,Meycauayan River,E:/gis files from rhiam/Data for Hiram/Meycauayan River.shp
+,River,Upstream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Naglabusan River,Naglabusan River,E:/gis files from rhiam/Data for Hiram/Naglabusan River.shp
+,River,Downstream,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Naglabusan River,Naglabusan River,E:/gis files from rhiam/Data for Hiram/Naglabusan River.shp
+,,,Obando River,Station 1 Polo Bridge,120.9371944,14.81034722,,,,,,,,,,,,,,,,,,,,,,,,,,,Obando River,E:/gis files from rhiam/Data for Hiram/Obando River.shp
+,,,Obando River,Station 2 Municipal Fishport near Public Market,120.9465972,14.70936389,,,,,,,,,,,,,,,,,,,,,,,,,,,Obando River,E:/gis files from rhiam/Data for Hiram/Obando River.shp
+,,,Obando River,Station 3 Tawiran Bridge,120.9106167,14.74643611,,,,,,,,,,,,,,,,,,,,,,,,,,,Obando River,E:/gis files from rhiam/Data for Hiram/Obando River.shp
+,,,Pampanga River,Near Villa Lourdes Resort,120.7762778,14.95472222,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River,E:/gis files from rhiam/Data for Hiram/Pampanga River.shp
+,,,Pampanga River,Near P Mercado Res/Fish Pond,120.7582778,14.93477778,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River,E:/gis files from rhiam/Data for Hiram/Pampanga River.shp
+,,,Pampanga River,Calumpit Bridge,120.7656667,14.92052778,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River,E:/gis files from rhiam/Data for Hiram/Pampanga River.shp
+,,,Pampanga River,Sulipan Bridge,120.7301667,14.89797222,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River,E:/gis files from rhiam/Data for Hiram/Pampanga River.shp
+,,,Pampanga River,Expressway Bridge,120.7227778,14.89325,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River,E:/gis files from rhiam/Data for Hiram/Pampanga River.shp
+,,,Pampanga River Upstream,Pampanga-Bongabon River Irrigation system,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River Upstream,E:/gis files from rhiam/Data for Hiram/Pampanga River Upstream.shp
+,,,Pampanga River Upstream,Vergara Bridge,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River Upstream,E:/gis files from rhiam/Data for Hiram/Pampanga River Upstream.shp
+,,,Pampanga River Upstream,Santa Rosa Bridge,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,Pampanga River Upstream,E:/gis files from rhiam/Data for Hiram/Pampanga River Upstream.shp
+,,,Quebiawan Creek,Upstream,120.66267,15.05875833,,,,,,,,,,,,,,,,,,,,,,,,,,,Quebiawan Creek,E:/gis files from rhiam/Data for Hiram/Quebiawan Creek.shp
+,,,Quebiawan Creek,Downstream,120.665965,15.05744333,,,,,,,,,,,,,,,,,,,,,,,,,,,Quebiawan Creek,E:/gis files from rhiam/Data for Hiram/Quebiawan Creek.shp
+,,,Quitangil Creek,Upstream,120.6239722,15.09213889,,,,,,,,,,,,,,,,,,,,,,,,,,,Quitangil Creek,E:/gis files from rhiam/Data for Hiram/Quitangil Creek.shp
+,,,Quitangil Creek,Downstream,120.6243056,15.09083333,,,,,,,,,,,,,,,,,,,,,,,,,,,Quitangil Creek,E:/gis files from rhiam/Data for Hiram/Quitangil Creek.shp
+,,,Rio Chico (Tarlac),Rio Chico Bridge,120.7511,15.4442,,,,,,,,,,,,,,,,,,,,,,,,,,,Rio Chico de Tarlac,E:/gis files from rhiam/Data for Hiram/Rio Chico de Tarlac.shp
+,,,Rio Chico (Tarlac),San Vicente Bridge,120.6994,15.5875,,,,,,,,,,,,,,,,,,,,,,,,,,,Rio Chico de Tarlac,E:/gis files from rhiam/Data for Hiram/Rio Chico de Tarlac.shp
+,,,Rio Chico (Tarlac),Pasang Inchic Bridge,120.7472,15.6688,,,,,,,,,,,,,,,,,,,,,,,,,,,Rio Chico de Tarlac,E:/gis files from rhiam/Data for Hiram/Rio Chico de Tarlac.shp
+,,,Saguin Creek,Upstream,120.6272778,15.08683333,,,,,,,,,,,,,,,,,,,,,,,,,,,Saguin Creek,E:/gis files from rhiam/Data for Hiram/Saguin Creek.shp
+,,,Saguin Creek,Downstream,120.6279167,15.08597222,,,,,,,,,,,,,,,,,,,,,,,,,,,Saguin Creek,E:/gis files from rhiam/Data for Hiram/Saguin Creek.shp
+,,,Sta Maria River,Sta Clara Bridge,120.9492972,14.81795333,,,,,,,,,,,,,,,,,,,,,,,,,,,Santa Maria River,E:/gis files from rhiam/Data for Hiram/Santa Maria River.shp
+,,,Sta Maria River,Poblacion Bridge,120.9588,14.81768833,,,,,,,,,,,,,,,,,,,,,,,,,,,Santa Maria River,E:/gis files from rhiam/Data for Hiram/Santa Maria River.shp
+,,,Sta Maria River,Catmon Bridge,120.9887617,14.82641667,,,,,,,,,,,,,,,,,,,,,,,,,,,Santa Maria River,E:/gis files from rhiam/Data for Hiram/Santa Maria River.shp
+,,,Sta Rosa Creek,Upstream,121.00877,14.79949,,,,,,,,,,,,,,,,,,,,,,,,,,,Santa Rosa Creek,E:/gis files from rhiam/Data for Hiram/Santa Rosa Creek.shp
+,,,Sta Rosa Creek,Downstream,121.00825,14.79919,,,,,,,,,,,,,,,,,,,,,,,,,,,Santa Rosa Creek,E:/gis files from rhiam/Data for Hiram/Santa Rosa Creek.shp
+,,,Sapang Balen,Upstream,120.57425,15.22358333,,,,,,,,,,,,,,,,,,,,,,,,,,,Sapang Balen Creek,E:/gis files from rhiam/Data for Hiram/Sapang Balen Creek.shp
+,,,Sapang Balen,Downstream,120.5756333,15.22516667,,,,,,,,,,,,,,,,,,,,,,,,,,,Sapang Balen Creek,E:/gis files from rhiam/Data for Hiram/Sapang Balen Creek.shp
+,,,Sapang Matua,Upstream,120.57425,15.22358333,,,,,,,,,,,,,,,,,,,,,,,,,,,Sapang Matua Creek,E:/gis files from rhiam/Data for Hiram/Sapang Matua Creek.shp
+,,,Sapang Matua,Downstream,120.5756333,15.22516667,,,,,,,,,,,,,,,,,,,,,,,,,,,Sapang Matua Creek,E:/gis files from rhiam/Data for Hiram/Sapang Matua Creek.shp
+,,,Tabon Creek,Upstream,120.83455,14.91122,,,,,,,,,,,,,,,,,,,,,,,,,,,Tabon Creek,E:/gis files from rhiam/Data for Hiram/Tabon Creek.shp
+,,,Tabon Creek,Downstream,120.83279,14.91183,,,,,,,,,,,,,,,,,,,,,,,,,,,Tabon Creek,E:/gis files from rhiam/Data for Hiram/Tabon Creek.shp
+,,,Talavera River,Upstream,120.9246982,16.10403929,,,,,,,,,,,,,,,,,,,,,,,,,,,Talavera River,E:/gis files from rhiam/Data for Hiram/Talavera River.shp
+,,,Talavera River,Midstream,121.0363362,15.82709958,,,,,,,,,,,,,,,,,,,,,,,,,,,Talavera River,E:/gis files from rhiam/Data for Hiram/Talavera River.shp
+,,,Talavera River,Downstream,120.9121529,15.58751716,,,,,,,,,,,,,,,,,,,,,,,,,,,Talavera River,E:/gis files from rhiam/Data for Hiram/Talavera River.shp
+,,,Talisay River,Tanato Bridge,120.4747309,14.63568435,,,,,,,,,,,,,,,,,,,,,,,,,,,Talisay River,E:/gis files from rhiam/Data for Hiram/Talisay River.shp
+,,,Talisay River,Magsaysay Dam,120.5078583,14.63426942,,,,,,,,,,,,,,,,,,,,,,,,,,,Talisay River,E:/gis files from rhiam/Data for Hiram/Talisay River.shp
+,,,Talisay River,Talisay Bridge,120.5358498,14.65181414,,,,,,,,,,,,,,,,,,,,,,,,,,,Talisay River,E:/gis files from rhiam/Data for Hiram/Talisay River.shp
+,,,Talisay River,Camacho Bridge,120.544394,14.67680381,,,,,,,,,,,,,,,,,,,,,,,,,,,Talisay River,E:/gis files from rhiam/Data for Hiram/Talisay River.shp
+,,,Talisay River,Near Banzon Residence,120.5589852,14.69053432,,,,,,,,,,,,,,,,,,,,,,,,,,,Talisay River,E:/gis files from rhiam/Data for Hiram/Talisay River.shp
+,,,Tenejero Creek,Upstream,120.84521,14.91605,,,,,,,,,,,,,,,,,,,,,,,,,,,Tenejero Creek,E:/gis files from rhiam/Data for Hiram/Tenejero Creek.shp
+,,,Tenejero Creek,Downstream,120.84646,14.91727,,,,,,,,,,,,,,,,,,,,,,,,,,,Tenejero Creek,E:/gis files from rhiam/Data for Hiram/Tenejero Creek.shp
+,,,Tugatog Creek,Upstream,120.9677933,14.72367167,,,,,,,,,,,,,,,,,,,,,,,,,,,Tugatog Creek,E:/gis files from rhiam/Data for Hiram/Tugatog Creek.shp
+,,,Tugatog Creek,Downstream,120.96873,14.72552167,,,,,,,,,,,,,,,,,,,,,,,,,,,Tugatog Creek,E:/gis files from rhiam/Data for Hiram/Tugatog Creek.shp
